@@ -1,0 +1,13 @@
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\bin\Debug\netcoreapp3.1\GeradorDeMussumIpsum.exe
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\bin\Debug\netcoreapp3.1\GeradorDeMussumIpsum.deps.json
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\bin\Debug\netcoreapp3.1\GeradorDeMussumIpsum.runtimeconfig.json
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\bin\Debug\netcoreapp3.1\GeradorDeMussumIpsum.runtimeconfig.dev.json
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\bin\Debug\netcoreapp3.1\GeradorDeMussumIpsum.dll
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\bin\Debug\netcoreapp3.1\GeradorDeMussumIpsum.pdb
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.csprojAssemblyReference.cache
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.AssemblyInfoInputs.cache
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.AssemblyInfo.cs
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.csproj.CoreCompileInputs.cache
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.dll
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.pdb
+C:\Users\annac\Desktop\GeradorDeMussumIpsum\GeradorDeMussumIpsum\obj\Debug\netcoreapp3.1\GeradorDeMussumIpsum.genruntimeconfig.cache
